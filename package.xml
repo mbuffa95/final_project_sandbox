@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>audibot_acc</name>
+  <name>final_project_sandbox</name>
   <version>0.0.0</version>
   <description>
-    Adaptive cruise control project starting point
+    Lane keeping project starting point
   </description>
   <maintainer email="mtradovn@oakland.edu">Micho Radovnikovich</maintainer>
   <license>BSD</license>
